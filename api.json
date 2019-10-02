@@ -1,0 +1,1713 @@
+{
+    "products": [
+      {
+        "id": 926237,
+        "name": "Combo 2 bife a milanesa",
+        "commercialName": null,
+        "salePrice": 70,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081258_JgoJ_e.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:11",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926238,
+        "name": "Combo 2 file de frango grelhado",
+        "commercialName": null,
+        "salePrice": 64,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081301_f5az_f.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:13",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926239,
+        "name": "Combo 2 file mignon a milanesa",
+        "commercialName": null,
+        "salePrice": 80,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081303_2spv_i.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:13",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926240,
+        "name": "Combo 2 file mignon a parmegiana + coca cola 2lts",
+        "commercialName": null,
+        "salePrice": 90,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_high/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081305_TXeQ_t.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:14",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926241,
+        "name": "Combo 2 panquecas de carne",
+        "commercialName": null,
+        "salePrice": 50,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081258_Bkmi_p.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:15",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926242,
+        "name": "Combo 2 picanhas grelhadas + fritas",
+        "commercialName": null,
+        "salePrice": 90,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081304_i2OB_p.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:16",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926243,
+        "name": "Combo 2 porções de calabresa acebolada",
+        "commercialName": null,
+        "salePrice": 50,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081306_4M1v_u.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:17",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926244,
+        "name": "Combo 2 strogonoff de frango + coca cola 2lts",
+        "commercialName": null,
+        "salePrice": 70,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081256_tDSM_9.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco e batata palha observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15884,
+          "name": "Combos e promoções",
+          "productsQuantity": 8,
+          "positionNumber": 1,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:18",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926245,
+        "name": "Bife a cavalo",
+        "commercialName": null,
+        "salePrice": 35.99,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081327_ob69_b.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:19",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926246,
+        "name": "Calabresa acebolada",
+        "commercialName": null,
+        "salePrice": 30,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081335_b8nh_i.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:19",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926247,
+        "name": "Bife a milanesa",
+        "commercialName": null,
+        "salePrice": 45,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081331_U3GJ_t.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:20",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926248,
+        "name": "Contra file grelhado",
+        "commercialName": null,
+        "salePrice": 44,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081341_ucsC_c.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:21",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926249,
+        "name": "Bife a parmegiana",
+        "commercialName": null,
+        "salePrice": 47,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081340_RjN9_2.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:22",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926250,
+        "name": "File de frango a parmegiana",
+        "commercialName": null,
+        "salePrice": 43,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081342_SVK9_i.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:22",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926251,
+        "name": "File de frango a milanesa",
+        "commercialName": null,
+        "salePrice": 42,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081339_Plgg_f.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:23",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926252,
+        "name": "File de frango grelhado",
+        "commercialName": null,
+        "salePrice": 42,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081345_XpmA_f.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:24",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926253,
+        "name": "File migno grelhado",
+        "commercialName": null,
+        "salePrice": 54,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081332_WUsL_c.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:24",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926254,
+        "name": "File mignon a milanesa",
+        "commercialName": null,
+        "salePrice": 50,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081346_ykOi_b.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:25",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926255,
+        "name": "File mignon a parmegiana",
+        "commercialName": null,
+        "salePrice": 56,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081341_yO34_p.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:26",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926256,
+        "name": "Lasanha a bolonhesa 500ml",
+        "commercialName": null,
+        "salePrice": 48,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081334_r6FM_2.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco lasanha: queijo, presunto, carne moida e molho observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:27",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926257,
+        "name": "Lasanha a bolonhesa 750ml",
+        "commercialName": null,
+        "salePrice": 80,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081338_ISiC_l.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco lasanha: queijo, presunto, carne moida e molho observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:27",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926258,
+        "name": "Picanha grelhada",
+        "commercialName": null,
+        "salePrice": 50,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081346_0XBk_p.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco, feijão carioca e batata soute observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:28",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926259,
+        "name": "Strogonoff de frango",
+        "commercialName": null,
+        "salePrice": 40,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081343_n27R_s.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Arroz branco e batata palha observação: por favor mandar mensagem via whatsapp antes da confirmação do pedido 11965449683",
+        "brand": null,
+        "category": {
+          "id": 15885,
+          "name": "Pratos",
+          "productsQuantity": 15,
+          "positionNumber": 2,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:29",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926260,
+        "name": "Porção de batata frita",
+        "commercialName": null,
+        "salePrice": 23.9,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081348_cOMI_1.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve duas pessoas ou mais",
+        "brand": null,
+        "category": {
+          "id": 15886,
+          "name": "Porções",
+          "productsQuantity": 5,
+          "positionNumber": 3,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:30",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926261,
+        "name": "Porção de calabresa acebolada",
+        "commercialName": null,
+        "salePrice": 34,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081350_S7Zy_d.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve duas pessoas ou mais",
+        "brand": null,
+        "category": {
+          "id": 15886,
+          "name": "Porções",
+          "productsQuantity": 5,
+          "positionNumber": 3,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:31",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926262,
+        "name": "Porção de contra file",
+        "commercialName": null,
+        "salePrice": 50,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081350_NriO_t.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve duas pessoas ou mais",
+        "brand": null,
+        "category": {
+          "id": 15886,
+          "name": "Porções",
+          "productsQuantity": 5,
+          "positionNumber": 3,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:31",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926263,
+        "name": "Porção de cotra file com batata",
+        "commercialName": null,
+        "salePrice": 59,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081349_gYB1_d.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve duas pessoas ou mais",
+        "brand": null,
+        "category": {
+          "id": 15886,
+          "name": "Porções",
+          "productsQuantity": 5,
+          "positionNumber": 3,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:32",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926264,
+        "name": "Porção de picanha com fritas",
+        "commercialName": null,
+        "salePrice": 80,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081351_yhCb_k.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve duas pessoas ou mais",
+        "brand": null,
+        "category": {
+          "id": 15886,
+          "name": "Porções",
+          "productsQuantity": 5,
+          "positionNumber": 3,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:33",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926265,
+        "name": "Salada da casa",
+        "commercialName": null,
+        "salePrice": 12,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081404_iacY_d.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15887,
+          "name": "Saladas",
+          "productsQuantity": 3,
+          "positionNumber": 4,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:34",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926266,
+        "name": "Salada de maionese",
+        "commercialName": null,
+        "salePrice": 15,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081405_6X3y_s.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15887,
+          "name": "Saladas",
+          "productsQuantity": 3,
+          "positionNumber": 4,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:34",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926267,
+        "name": "Salada de rucula",
+        "commercialName": null,
+        "salePrice": 14,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081403_ChVu_r.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15887,
+          "name": "Saladas",
+          "productsQuantity": 3,
+          "positionNumber": 4,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:35",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926268,
+        "name": "Macarrão a bolonhesa",
+        "commercialName": null,
+        "salePrice": 25,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081359_HToP_m.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve duas pessoas",
+        "brand": null,
+        "category": {
+          "id": 15888,
+          "name": "Massas",
+          "productsQuantity": 6,
+          "positionNumber": 5,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:36",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926269,
+        "name": "Nhoque de batata a bolonhesa",
+        "commercialName": null,
+        "salePrice": 29,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081400_o6co_d.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve uma pessoa",
+        "brand": null,
+        "category": {
+          "id": 15888,
+          "name": "Massas",
+          "productsQuantity": 6,
+          "positionNumber": 5,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:37",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926270,
+        "name": "Nhoque de batata ao sugo",
+        "commercialName": null,
+        "salePrice": 29.9,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081357_fytk_n.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve uma pessoa",
+        "brand": null,
+        "category": {
+          "id": 15888,
+          "name": "Massas",
+          "productsQuantity": 6,
+          "positionNumber": 5,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:38",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926271,
+        "name": "Panqueca de carne",
+        "commercialName": null,
+        "salePrice": 29.9,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081401_0RUP_8.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve uma pessoa",
+        "brand": null,
+        "category": {
+          "id": 15888,
+          "name": "Massas",
+          "productsQuantity": 6,
+          "positionNumber": 5,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:39",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926272,
+        "name": "Talharim a bolonhesa",
+        "commercialName": null,
+        "salePrice": 25,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081402_DXC7_d.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve uma pessoa",
+        "brand": null,
+        "category": {
+          "id": 15888,
+          "name": "Massas",
+          "productsQuantity": 6,
+          "positionNumber": 5,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:40",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926273,
+        "name": "Talharim a carbonara",
+        "commercialName": null,
+        "salePrice": 26,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081402_yjAe_t.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "Serve uma pessoa",
+        "brand": null,
+        "category": {
+          "id": 15888,
+          "name": "Massas",
+          "productsQuantity": 6,
+          "positionNumber": 5,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:40",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926274,
+        "name": "Coca cola 2lts",
+        "commercialName": null,
+        "salePrice": 12,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081408_Lajd_c.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:41",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926275,
+        "name": "Coca cola 2lts zero",
+        "commercialName": null,
+        "salePrice": 12,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081408_AbqR_1.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:42",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926276,
+        "name": "Coca cola lata",
+        "commercialName": null,
+        "salePrice": 5,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081409_ZqHX_4.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:43",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926277,
+        "name": "Coca cola lata zero",
+        "commercialName": null,
+        "salePrice": 5,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081409_SsmH_2.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:43",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926278,
+        "name": "Guaraa Antarctica lata zero",
+        "commercialName": null,
+        "salePrice": 4.8,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081410_kPLZ_r.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:44",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926279,
+        "name": "Guarana Antarctica 2lts",
+        "commercialName": null,
+        "salePrice": 9.8,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081406_R4CL_i.png",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:45",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926280,
+        "name": "Guarana Antarctica 2lts zero",
+        "commercialName": null,
+        "salePrice": 9.8,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081407_Mqp7_1.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:46",
+        "updateDate": "2019-08-15T12:25:47"
+      },
+      {
+        "id": 926281,
+        "name": "Guarana Antarctica lata",
+        "commercialName": null,
+        "salePrice": 4.8,
+        "skuCode": null,
+        "photo": "https://static-images.ifood.com.br/image/upload/f_auto,t_medium/pratos/44f197c7-f9c1-4155-b5ec-abdb4b5c2076/201908081410_VOyp_d.jpg",
+        "onlyComplement": false,
+        "availability": {
+          "slug": "AVAILABLE",
+          "name": "Disponível"
+        },
+        "active": true,
+        "description": "",
+        "brand": null,
+        "category": {
+          "id": 15889,
+          "name": "Bebidas",
+          "productsQuantity": 8,
+          "positionNumber": 6,
+          "printingLocation": null
+        },
+        "fiscalInformation": null,
+        "minimumSalePrice": 0,
+        "maximumSalePrice": null,
+        "costPrice": null,
+        "quantity": null,
+        "minimumQuantity": null,
+        "ean": null,
+        "complementCategories": [
+          
+        ],
+        "hasComplement": false,
+        "printable": true,
+        "creationDate": "2019-08-15T12:25:46",
+        "updateDate": "2019-08-15T12:25:47"
+      }
+    ],
+    "categories": [
+      {
+        "id": 15884,
+        "name": "Combos e promoções",
+        "productsQuantity": 8,
+        "positionNumber": 1,
+        "printingLocation": null
+      },
+      {
+        "id": 15885,
+        "name": "Pratos",
+        "productsQuantity": 15,
+        "positionNumber": 2,
+        "printingLocation": null
+      },
+      {
+        "id": 15886,
+        "name": "Porções",
+        "productsQuantity": 5,
+        "positionNumber": 3,
+        "printingLocation": null
+      },
+      {
+        "id": 15887,
+        "name": "Saladas",
+        "productsQuantity": 3,
+        "positionNumber": 4,
+        "printingLocation": null
+      },
+      {
+        "id": 15888,
+        "name": "Massas",
+        "productsQuantity": 6,
+        "positionNumber": 5,
+        "printingLocation": null
+      },
+      {
+        "id": 15889,
+        "name": "Bebidas",
+        "productsQuantity": 8,
+        "positionNumber": 6,
+        "printingLocation": null
+      }
+    ]
+  }
