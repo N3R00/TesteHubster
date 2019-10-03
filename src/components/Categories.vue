@@ -35,6 +35,7 @@ export default {
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  margin-top: 14px;
 }
 .col-md-2{
   width: 20%;
