@@ -164,7 +164,8 @@ export default {
       for(var i = 0; i < app.cartProducts.length; i++){
         if (app.cartProducts[i].id == id) {
           if (app.cartProducts[i].qnt == 1) {
-            app.cartProducts.splice(i);
+            app.cartProducts.splice(i, 1);
+            //console.log(app.cartProducts)
           }else{
             app.cartProducts[i].qnt = app.cartProducts[i].qnt - 1;
           }
