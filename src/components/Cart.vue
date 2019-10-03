@@ -59,6 +59,12 @@ export default {
     watch: {
         totalSumCartProducts: function () {
             this.total = this.totalSumCartProducts;
+        },
+        porcentage: function(){
+            let app = this;
+            if(app.porcentage >= 100){
+                app.porcentage = 100;
+            }
         }
     },
 }
