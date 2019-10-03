@@ -26,6 +26,7 @@
           :cartProducts='cartProducts'
           :totalSumCartProducts='totalSumCartProducts'
           @finalizeSale='finalizeSale'
+          @removeItemCart='removeItemCart'
         />
       </div>
     </div>
@@ -155,6 +156,23 @@ export default {
       let app = this;
       app.currentCategory = data.id;
       app.searchProductsByCategory();
+    },
+    removeItemCart(data){
+      let app = this;
+      let id = data.id;
+
+      for(var i = 0; i < app.cartProducts.length; i++){
+        if (app.cartProducts[i].id == id) {
+          if (app.cartProducts[i].qnt == 1) {
+            app.cartProducts.splice(i);
+          }else{
+            app.cartProducts[i].qnt = app.cartProducts[i].qnt - 1;
+          }
+        }
+      }
+
+      app.sumCartProducts();
+
     },
     finalizeSale(){
       let app = this;

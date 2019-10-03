@@ -7,7 +7,7 @@
                         <span>{{p.qnt}} x {{p.name}}</span>
                     </div>
                     <div class="col-md-4">
-                        <span>R$ {{(p.salePrice*p.qnt).toFixed(2).replace('.', ',')}}</span>
+                        <span>R$ {{(p.salePrice*p.qnt).toFixed(2).replace('.', ',')}}</span> &nbsp; &nbsp; &nbsp;<a href="" @click.prevent='removeItemCart(p.id)'><b>X</b></a>
                     </div>
                 </div>
                 <span><small>Valor Unitário: </small>R$ {{p.salePrice.toFixed(2).replace('.', ',')}}</span>
@@ -51,6 +51,9 @@ export default {
             let porcentage = app.porcentage / 100;
             let valueDiscount = app.totalSumCartProducts * porcentage;
             app.total = app.totalSumCartProducts - valueDiscount;
+        },
+        removeItemCart(id){
+            this.$emit('removeItemCart', {id: id});
         },
         finalizeSale(){
             this.$emit('finalizeSale');
@@ -121,5 +124,9 @@ button{
     border: 1pt solid rgb(202, 200, 200);
     font-size: 12pt;
     color: #333;
+}
+a{
+    text-decoration: none;
+    color: rgb(214, 40, 40);
 }
 </style>
