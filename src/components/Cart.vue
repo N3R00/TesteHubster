@@ -65,6 +65,9 @@ export default {
             if(app.porcentage >= 100){
                 app.porcentage = 100;
             }
+            if(app.porcentage < 0){
+                app.porcentage = 0;
+            }
         }
     },
 }
